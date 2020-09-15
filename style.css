@@ -111,7 +111,7 @@ a{
 
 /*Sign-up section css*/
 .Sign-up{
-	width: 116%;
+	width: 100%;
 	display: flow-root;
 	background: #f0f0f0;
 	padding: 44px 0px;
@@ -175,7 +175,7 @@ form i{
 }
 /*last part css*/
 .last{
-	width: 116%;
+	width: 100%;
 	display: flow-root;
 	background: #f0f0f0;
 	margin-top: 59px;
